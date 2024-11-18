@@ -59,13 +59,18 @@ accuracy
 ## Output:
 ### OUTPUT 1: ![image](https://github.com/user-attachments/assets/a737d693-b178-40b9-b3b4-c9a1d2d04cb9)
 
+
 ### OUTPUT 2:  ![image](https://github.com/user-attachments/assets/ed3eb8c6-3c73-47bf-9157-8ad687e38329)
+
 
 ### OUTPUT 3:  ![image](https://github.com/user-attachments/assets/1b5140d2-cf52-4545-8aad-a34188031356)
 
+
 ### OUTPUT 4:   ![image](https://github.com/user-attachments/assets/4775af96-c825-4c5c-b075-b0703f37ed4f)
 
+
 ### OUTPUT 5:   ![image](https://github.com/user-attachments/assets/14432860-613a-4c0b-a8cd-442c28d446bf)
+
 
 ### OUTPUT 6:   ![image](https://github.com/user-attachments/assets/60bec89e-c266-4fe8-b9de-96e621b94ec7)
 
